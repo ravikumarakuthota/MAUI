@@ -10,5 +10,6 @@ public class Category : ContentPage
 	public bool IsSelected { get; set; }
 	public Category()
 	{
+		
 	}
 }

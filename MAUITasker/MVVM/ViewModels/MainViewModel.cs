@@ -8,7 +8,6 @@ public class MainViewModel : ContentPage
 	public ObservableCollection<Category> Categories { get; set; }
 	public ObservableCollection<MyTask> Tasks { get; set; }
 
-
 	public MainViewModel()
 	{
 		FillData();

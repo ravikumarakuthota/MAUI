@@ -24,6 +24,5 @@
       </CollectionView>
     </Grid>
     <Grid Grid.Row="2" BackgroundColor="{StaticResource LightBlue}"/>
-
   </Grid>
 </ContentPage>

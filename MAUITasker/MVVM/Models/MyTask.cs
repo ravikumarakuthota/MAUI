@@ -9,5 +9,6 @@ public class MyTask : ContentPage
 
 	public MyTask()
 	{
+		
 	}
 }
